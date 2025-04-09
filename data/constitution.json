@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Preamble",
+        "articles": [
+            {
+                "title": "Preamble",
+                "content": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+            }
+        ]
+    },
+    {
+        "name": "Fundamental Rights",
+        "articles": [
+            {
+                "title": "Article 14",
+                "content": "Equality before law - The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+            },
+            {
+                "title": "Article 19",
+                "content": "Protection of certain rights regarding freedom of speech, etc. - (1) All citizens shall have the right - (a) to freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions; (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; and (f) to practice any profession, or to carry on any occupation, trade or business."
+            },
+            {
+                "title": "Article 21",
+                "content": "Protection of life and personal liberty - No person shall be deprived of his life or personal liberty except according to procedure established by law."
+            }
+        ]
+    },
+    {
+        "name": "Directive Principles",
+        "articles": [
+            {
+                "title": "Article 38",
+                "content": "State to secure a social order for the promotion of welfare of the people - (1) The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life."
+            },
+            {
+                "title": "Article 39A",
+                "content": "Equal justice and free legal aid - The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities."
+            }
+        ]
+    }
+]
